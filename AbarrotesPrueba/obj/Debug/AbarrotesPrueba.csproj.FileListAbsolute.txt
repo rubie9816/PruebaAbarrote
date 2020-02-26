@@ -1,0 +1,12 @@
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\bin\Debug\AbarrotesPrueba.exe.config
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\bin\Debug\AbarrotesPrueba.exe
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\bin\Debug\AbarrotesPrueba.pdb
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.csprojAssemblyReference.cache
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.Properties.Resources.resources
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.csproj.GenerateResource.cache
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.exe
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.pdb
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.LogIn.resources
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.MenuPrincipal.resources
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.Ventas.resources
+C:\Users\dell10\source\repos\AbarrotesPrueba\AbarrotesPrueba\obj\Debug\AbarrotesPrueba.Productos.resources
